@@ -16,11 +16,11 @@ Qualitative data analysis is the classification and interpretation of linguistic
 
 Taguette supports PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). If you need to work with audio and video files, you really have to look at the more expensive, paid software.
 
-If you also want to look quantitavely at your qualitative data, using crosstabs or complex matrix queries, or if you work on a team and want to do interrater reliability more easily, you should look at NVivo and similar software.
-
-Taguette has a great [[https://www.taguette.org/getting-started.html][getting started guide]].
+If you also want to look quantitatively at your qualitative data, using crosstabs or complex matrix queries, or if you work on a team and want to do interrater reliability more easily, you should look at NVivo and similar software.
 
 ** Installing Taguette (or using the online version)
+
+First, Taguette has a great [[https://www.taguette.org/getting-started.html][getting started guide]]. We're going to be roughly following it in our workshop, but I recommend referring to it as needed.
 
 In the interest of saving time today, we're all going to use the online version of Taguette, so you will need to [[https://app.taguette.org/][sign-up for an account]]. If you really don't want to sign up for an account, go ahead with the install instructions below.
 

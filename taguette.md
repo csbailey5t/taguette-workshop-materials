@@ -1,23 +1,23 @@
 
 # Table of Contents
 
-[Introduction to Qualitative Data Analysis with Taguette](#orgb6d82d6)
-1.  [What is qualitative data analysis?](#orga0140d0)
-2.  [Comparison of software used for QDA](#org568aea1)
-3.  [Installing Taguette (or using the online version)](#orgd540bf7)
-4.  [Creating a Project and loading documents into Taguette](#org4fc237b)
-5.  [Viewing and coding documents](#org8dfb368)
-6.  [Building a codebook](#org1791ab1)
-7.  [Further Resources](#orgb7b984e)
+[Introduction to Qualitative Data Analysis with Taguette](#org7e4b85a)
+1.  [What is qualitative data analysis?](#orgd5c6042)
+2.  [Comparison of software used for QDA](#orgebbf12a)
+3.  [Installing Taguette (or using the online version)](#org91ab9b9)
+4.  [Creating a Project and loading documents into Taguette](#orgb1c9beb)
+5.  [Viewing and coding documents](#org957279f)
+6.  [Building a codebook](#org1b467bd)
+7.  [Further Resources](#org0874858)
 
 
 
-<a id="orgb6d82d6"></a>
+<a id="org7e4b85a"></a>
 
 # Introduction to Qualitative Data Analysis with Taguette
 
 
-<a id="orga0140d0"></a>
+<a id="orgd5c6042"></a>
 
 ## What is qualitative data analysis?
 
@@ -26,7 +26,7 @@ From Chapter 1 of the SAGE Handbook of Qualitative Analysis:
 > Qualitative data analysis is the classification and interpretation of linguistic (or visual) material to make statements about implicit and explicit dimensions and structures of meaning-making in the material and what is represented in it. Meaning-making can refer to subjective or social meanings. Qualitative data analysis also is applied to discover and describe issues in the field or structures and processes in routines and practices. Often, qualitative data analysis combines approaches of a rough analysis of the material (overviews, condensation, summaries) with approaches of a detailed analysis (elaboration of categories, hermeneutic interpretations or identified structures). The final aim is often to arrive at generalizable statements by comparing various materials or various texts or several cases.
 
 
-<a id="org568aea1"></a>
+<a id="orgebbf12a"></a>
 
 ## Comparison of software used for QDA
 
@@ -34,14 +34,14 @@ From Chapter 1 of the SAGE Handbook of Qualitative Analysis:
 
 Taguette supports PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, Open Documents (.odt), and Rich Text Files (.rtf). If you need to work with audio and video files, you really have to look at the more expensive, paid software.
 
-If you also want to look quantitavely at your qualitative data, using crosstabs or complex matrix queries, or if you work on a team and want to do interrater reliability more easily, you should look at NVivo and similar software.
-
-Taguette has a great [getting started guide](https://www.taguette.org/getting-started.html).
+If you also want to look quantitatively at your qualitative data, using crosstabs or complex matrix queries, or if you work on a team and want to do interrater reliability more easily, you should look at NVivo and similar software.
 
 
-<a id="orgd540bf7"></a>
+<a id="org91ab9b9"></a>
 
 ## Installing Taguette (or using the online version)
+
+First, Taguette has a great [getting started guide](https://www.taguette.org/getting-started.html). We&rsquo;re going to be roughly following it in our workshop, but I recommend referring to it as needed.
 
 In the interest of saving time today, we&rsquo;re all going to use the online version of Taguette, so you will need to [sign-up for an account](https://app.taguette.org/). If you really don&rsquo;t want to sign up for an account, go ahead with the install instructions below.
 
@@ -50,7 +50,7 @@ You can install Taguette on Windows, Mac, or Linux following the directions [her
 On MacOS, if you run into a warning that you can&rsquo;t open the app for security, then open Settings -> Security and Privacy, and click Open Anyway in the General tab.
 
 
-<a id="org4fc237b"></a>
+<a id="orgb1c9beb"></a>
 
 ## Creating a Project and loading documents into Taguette
 
@@ -65,7 +65,7 @@ You&rsquo;ll then see the basic Project view, with a sidebar on the left of the 
 Click &ldquo;Add a document,&rdquo; and select the PDFs of your readings for this week. When you add a document, you can specify a name as well as a description. If you don&rsquo;t put in a name, it will default to the file name. You can edit this later as well, by clicking the &ldquo;edit&rdquo; button by the document title in the &ldquo;Documents&rdquo; tab. When you import documents, Taguette is pulling out the raw text from the document for display and use in the application. Especially if you work with PDFs, you might get some artifacts from page numbers or footers, which we&rsquo;ll see momentarily.
 
 
-<a id="org8dfb368"></a>
+<a id="org957279f"></a>
 
 ## Viewing and coding documents
 
@@ -94,7 +94,7 @@ Now let&rsquo;s see what views Taguette provides for our codes. First, click the
 These exports allow you to compile these coded slices of your collection to help in your research and writing.
 
 
-<a id="org1791ab1"></a>
+<a id="org1b467bd"></a>
 
 ## Building a codebook
 
@@ -103,7 +103,7 @@ With qualitative analysis, you often produce a careful created codebook that exp
 Click &ldquo;Project info&rdquo; in the left sidebar. You can click the downward-pointing arrow to select a format for export. Try PDF for now. The QDC (XML) format that you see there is the Codebook Exchange Format that qualitative tools can use to transfer codes between software.
 
 
-<a id="orgb7b984e"></a>
+<a id="org0874858"></a>
 
 ## Further Resources
 
