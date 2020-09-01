@@ -1,23 +1,24 @@
 
 # Table of Contents
 
-[Introduction to Qualitative Data Analysis with Taguette](#org7e4b85a)
-1.  [What is qualitative data analysis?](#orgd5c6042)
-2.  [Comparison of software used for QDA](#orgebbf12a)
-3.  [Installing Taguette (or using the online version)](#org91ab9b9)
-4.  [Creating a Project and loading documents into Taguette](#orgb1c9beb)
-5.  [Viewing and coding documents](#org957279f)
-6.  [Building a codebook](#org1b467bd)
-7.  [Further Resources](#org0874858)
+[Introduction to Qualitative Data Analysis with Taguette](#org8b277f5)
+1.  [What is qualitative data analysis?](#orgb3e69ea)
+2.  [Comparison of software used for QDA](#orga7a3ae5)
+3.  [Installing Taguette (or using the online version)](#org362dc1f)
+4.  [Creating a Project and loading documents into Taguette](#org1fb5927)
+5.  [Viewing and coding documents](#org899c63f)
+6.  [Viewing highlights](#org5407e80)
+7.  [Building a codebook](#orgdad3806)
+8.  [Further Resources](#org9ce5141)
 
 
 
-<a id="org7e4b85a"></a>
+<a id="org8b277f5"></a>
 
 # Introduction to Qualitative Data Analysis with Taguette
 
 
-<a id="orgd5c6042"></a>
+<a id="orgb3e69ea"></a>
 
 ## What is qualitative data analysis?
 
@@ -26,7 +27,7 @@ From Chapter 1 of the SAGE Handbook of Qualitative Analysis:
 > Qualitative data analysis is the classification and interpretation of linguistic (or visual) material to make statements about implicit and explicit dimensions and structures of meaning-making in the material and what is represented in it. Meaning-making can refer to subjective or social meanings. Qualitative data analysis also is applied to discover and describe issues in the field or structures and processes in routines and practices. Often, qualitative data analysis combines approaches of a rough analysis of the material (overviews, condensation, summaries) with approaches of a detailed analysis (elaboration of categories, hermeneutic interpretations or identified structures). The final aim is often to arrive at generalizable statements by comparing various materials or various texts or several cases.
 
 
-<a id="orgebbf12a"></a>
+<a id="orga7a3ae5"></a>
 
 ## Comparison of software used for QDA
 
@@ -37,7 +38,7 @@ Taguette supports PDFs, Word Docs (.docx), Text files (.txt), HTML, EPUB, MOBI, 
 If you also want to look quantitatively at your qualitative data, using crosstabs or complex matrix queries, or if you work on a team and want to do interrater reliability more easily, you should look at NVivo and similar software.
 
 
-<a id="org91ab9b9"></a>
+<a id="org362dc1f"></a>
 
 ## Installing Taguette (or using the online version)
 
@@ -50,7 +51,7 @@ You can install Taguette on Windows, Mac, or Linux following the directions [her
 On MacOS, if you run into a warning that you can&rsquo;t open the app for security, then open Settings -> Security and Privacy, and click Open Anyway in the General tab.
 
 
-<a id="orgb1c9beb"></a>
+<a id="org1fb5927"></a>
 
 ## Creating a Project and loading documents into Taguette
 
@@ -65,21 +66,21 @@ You&rsquo;ll then see the basic Project view, with a sidebar on the left of the 
 Click &ldquo;Add a document,&rdquo; and select the PDFs of your readings for this week. When you add a document, you can specify a name as well as a description. If you don&rsquo;t put in a name, it will default to the file name. You can edit this later as well, by clicking the &ldquo;edit&rdquo; button by the document title in the &ldquo;Documents&rdquo; tab. When you import documents, Taguette is pulling out the raw text from the document for display and use in the application. Especially if you work with PDFs, you might get some artifacts from page numbers or footers, which we&rsquo;ll see momentarily.
 
 
-<a id="org957279f"></a>
+<a id="org899c63f"></a>
 
 ## Viewing and coding documents
 
 Now that we&rsquo;ve uploaded two documents, we&rsquo;ll start to look at our documents and do a bit of coding.
 
-First, click on the Qualitative Researcher&rsquo;s Companion. Scroll through and see what happened to the PDf when it was converted to plain text by Taguette.
+First, click on the &ldquo;Qualitative Researcher&rsquo;s Companion.&rdquo;&ldquo; Scroll through and see what happened to the PDF when it was converted to plain text by Taguette.
 
-Now let&rsquo;s think about coding. Here&rsquo;s two related approaches to content based coding.
+Now let&rsquo;s think about coding. Here are two related approaches to content based coding.
 
 Thematic coding: &ldquo;Thematic analysis is a data reduction and analysis strategy by which qualitative data are segmented, categorized, summarized, and reconstructed in a way that captures the important concepts within the data set&#x2026;Thematic coding is the strategy by which data are segmented and categorized for thematic analysis.&rdquo; From the SAGE Encyclopedia of Qualitative Research Methods.
 
 In vivo coding: &ldquo;In vivo coding is the practice of assigning a label to a section of data, such as an interview transcript, using a word or short phrase taken from that section of the data. This entry describes this practice and some applications and problems associated with it.&rdquo; From the SAGE Encyclopedia of Qualitative Research Methods.
 
-In the left sidebar, click &ldquo;Highlights.&rdquo; Here is where we can create a &ldquo;tag,&rdquo; a code, and also see all the text that we&rsquo;ve highlighted with that tag. Taguette gives you one tag, &ldquo;interesting,&rdquo; by default, but we&rsquo;ll want to add our own. You can also create &ldquo;tags&rdquo; as you work through the text and highlight. We&rsquo;ll do that first.
+In the left sidebar, click &ldquo;Highlights.&rdquo; Here is where we can create a &ldquo;tag,&rdquo; a code, and also see all the text that we&rsquo;ve highlighted with that tag. Taguette gives you one tag, &ldquo;interesting,&rdquo; by default, but we&rsquo;ll want to add our own. You can also create &ldquo;tags&rdquo; as you work through the text and highlight. We&rsquo;ll start with the latter approach.
 
 In the document, highlight some text. You should then see a small popup that says &ldquo;new highlight.&rdquo; Click that and you&rsquo;ll see a list of existing tags and an option to &ldquo;Create a tag.&rdquo; Go ahead and create a tag that either expresses the theme of the text you highlighted or uses a word from that text. You&rsquo;ll give the tag a name, and a description that expresses the meaning of that tag, potentially with criteria for why some text would be highlighted with that tag.
 
@@ -89,23 +90,36 @@ We&rsquo;ll do a bit of practice with coding in a moment, but let&rsquo;s cover 
 
 Take a few minutes now to highlight more text, including in the other document we uploaded. Feel free to add a few more tags as it makes sense. While you&rsquo;re at it, try turning on the &ldquo;backlight&rdquo; option under the &ldquo;Documents&rdquo; tab.
 
+If you&rsquo;re feeling adventurous, see if you can figure out how to change the code or highlight or a section of text If you&rsquo;re feeling adventurous, see if you can figure out how to change the code or highlight or a section of text.
+
+
+<a id="org5407e80"></a>
+
+## Viewing highlights
+
 Now let&rsquo;s see what views Taguette provides for our codes. First, click the &ldquo;Highlights&rdquo; tab then the name of a tag you&rsquo;re interested in. You should see boxes or &ldquo;cards&rdquo; with the text you highlighted and assigned to the tag. In the top right of the window, you&rsquo;ll have a button that says &ldquo;Export this view,&rdquo; with a small downward-pointing arrow. You can click that arrow to select an export format, then click the format to export this selection of texts. Try it now with PDF format.
 
 These exports allow you to compile these coded slices of your collection to help in your research and writing.
 
 
-<a id="org1b467bd"></a>
+<a id="orgdad3806"></a>
 
 ## Building a codebook
 
-With qualitative analysis, you often produce a careful created codebook that explains your codes. Taguette can generate a codebook for you from the names and descriptions of your tags.
+With qualitative analysis, you often produce a carefully created codebook that explains your codes. The codebook facilitates consistency and transparency in your coding, even if you are working on a project by yourself. Taguette can generate a codebook for you from the names and descriptions of your tags.
 
 Click &ldquo;Project info&rdquo; in the left sidebar. You can click the downward-pointing arrow to select a format for export. Try PDF for now. The QDC (XML) format that you see there is the Codebook Exchange Format that qualitative tools can use to transfer codes between software.
 
 
-<a id="org0874858"></a>
+<a id="org9ce5141"></a>
 
 ## Further Resources
+
+Within the Libraries, I&rsquo;m happy to meet with you to talk through software choices or help with any qualitative analysis software. We also have a graduate student consultant who can help with Dedoose. To request a consultation, the best option is to use the form [here](https://go.ncsu.edu/dvs-request).
+
+If you&rsquo;d like to use the NVivo or ATLAS.ti through the NC State Virtual Computing Lab, you can find getting started instructions for the VCL [here](https://vcl.ncsu.edu/get-help/documentation/how-do-i-get-started/).
+
+For reference on using qualitative methods, the Libraries provide access to quite a few resources, including:
 
 -   The SAGE Handbook of Qualitative Data Analysis: <https://catalog.lib.ncsu.edu/catalog/NCSU4540303>
 -   The SAGE Encyclopedia of Qualitative Research Methods:
